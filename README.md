@@ -63,24 +63,17 @@ This project is a **Course Management System** built with **Laravel**. The syste
 ## Screenshots
 
 - **Login Screen**:
-  ![Login Screen](![image](https://github.com/user-attachments/assets/b93292a7-1651-49bd-afca-d124d54d355e)
-)
+  ![Login Screen](https://github.com/user-attachments/assets/b93292a7-1651-49bd-afca-d124d54d355e)
 
 - **Add Course Form**:
-  ![Add Course](![image](![image](https://github.com/user-attachments/assets/3d2c5efc-6d71-4220-8c70-af0df2fa53ee)
-)
-)
+  ![Add Course](https://github.com/user-attachments/assets/3d2c5efc-6d71-4220-8c70-af0df2fa53ee)
 
 - **Search Courses**:
-  ![Search Courses](![image](![image](https://github.com/user-attachments/assets/6bfbe7cd-1a6a-4df4-ba82-a3ad70d3e953)
-)
-)
+  ![Search Courses](https://github.com/user-attachments/assets/6bfbe7cd-1a6a-4df4-ba82-a3ad70d3e953)
 
 - **Course List**:
-  ![Course List](![Uploading image.png…](![image](https://github.com/user-attachments/assets/5b0f3d9a-6846-4ad2-86a4-9d184909e592)
-)
-)
-
+  ![Course List](https://github.com/user-attachments/assets/5b0f3d9a-6846-4ad2-86a4-9d184909e592)
+  
 ## Contributing
 
 1. Fork the repository.
