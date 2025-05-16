@@ -5,7 +5,7 @@ This project is a **Course Management System** built with **Laravel**. The syste
 ## Features
 - **Admin Login**: Login as an admin using predefined credentials (`admin` / `admin`).
 - **Add Course**: Admin can add courses with information such as title, instructor, credit hours, and semester.
-- **View Courses**: Admin can view all courses in the system.
+- **View Courses**: User can view all courses in the system.
 - **Search Courses**: Search courses based on their title or instructor.
 
 ## Installation
